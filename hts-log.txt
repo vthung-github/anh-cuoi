@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 19 Feb 2025 21:18:22 at https://thiepcuoionline.huythanhjewelry.vn/toan-ngoc-22022025-1730/moi-cuoi?fbclid=IwY2xjawIixcBleHRuA2FlbQIxMAABHTQMDu9ivYs0rvSEF7DrRXH4a_SK8yIZ0bOp6PpOikbF5lSz1_DCjOYdaA_aem_S_rXZ1xjDG8WI1LTBLT9hQ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thiepcuoionline.huythanhjewelry.vn/toan-ngoc-22022025-1730/moi-cuoi?fbclid=IwY2xjawIixcBleHRuA2FlbQIxMAABHTQMDu9ivYs0rvSEF7DrRXH4a_SK8yIZ0bOp6PpOikbF5lSz1_DCjOYdaA_aem_S_rXZ1xjDG8WI1LTBLT9hQ -O1 "C:\My Web Sites\anh cuoi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:18:42	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/toan-ngoc-22022025-1730/"https://thiepcuoionline.huythanhjewelry.vn/img/banner.jpg" (from https://thiepcuoionline.huythanhjewelry.vn/toan-ngoc-22022025-1730/moi-cuoi?fbclid=IwY2xjawIixcBleHRuA2FlbQIxMAABHTQMDu9ivYs0rvSEF7DrRXH4a_SK8yIZ0bOp6PpOikbF5lSz1_DCjOYdaA_aem_S_rXZ1xjDG8WI1LTBLT9hQ)
+21:18:42	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/toan-ngoc-22022025-1730/"https://thiepcuoionline.huythanhjewelry.vn/storage/GeGRcXZd1Z.webp" (from https://thiepcuoionline.huythanhjewelry.vn/toan-ngoc-22022025-1730/moi-cuoi?fbclid=IwY2xjawIixcBleHRuA2FlbQIxMAABHTQMDu9ivYs0rvSEF7DrRXH4a_SK8yIZ0bOp6PpOikbF5lSz1_DCjOYdaA_aem_S_rXZ1xjDG8WI1LTBLT9hQ)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/toan-ngoc-22022025-1730/"https://thiepcuoionline.huythanhjewelry.vn/storage/47DOgTWR1v.webp" (from https://thiepcuoionline.huythanhjewelry.vn/toan-ngoc-22022025-1730/moi-cuoi?fbclid=IwY2xjawIixcBleHRuA2FlbQIxMAABHTQMDu9ivYs0rvSEF7DrRXH4a_SK8yIZ0bOp6PpOikbF5lSz1_DCjOYdaA_aem_S_rXZ1xjDG8WI1LTBLT9hQ)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/toan-ngoc-22022025-1730/POST (from https://thiepcuoionline.huythanhjewelry.vn/toan-ngoc-22022025-1730/moi-cuoi?fbclid=IwY2xjawIixcBleHRuA2FlbQIxMAABHTQMDu9ivYs0rvSEF7DrRXH4a_SK8yIZ0bOp6PpOikbF5lSz1_DCjOYdaA_aem_S_rXZ1xjDG8WI1LTBLT9hQ)
+21:18:44	Error: 	"Not Found" (404) at link https://nhuhuy-tuyetmai.iwedding.info/templates/template19/css/webfonts/lg.eot? (from https://nhuhuy-tuyetmai.iwedding.info/templates/template19/css/libs.css?v=20240713)
+21:18:44	Error: 	"Not Found" (404) at link https://nhuhuy-tuyetmai.iwedding.info/templates/template19/img/vimeo-play.png (from https://nhuhuy-tuyetmai.iwedding.info/templates/template19/css/libs.css?v=20240713)
+21:18:44	Error: 	"Not Found" (404) at link https://nhuhuy-tuyetmai.iwedding.info/templates/template19/img/video-play.png (from https://nhuhuy-tuyetmai.iwedding.info/templates/template19/css/libs.css?v=20240713)
+21:18:44	Error: 	"Not Found" (404) at link https://nhuhuy-tuyetmai.iwedding.info/templates/template19/img/youtube-play.png (from https://nhuhuy-tuyetmai.iwedding.info/templates/template19/css/libs.css?v=20240713)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/images/our-story-background-img.jpg (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/images/our-story-background-img%402x.jpg (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/images/invitation-background.jpg (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/images/invitation-background%402x.jpg (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/images/bridesmaids-background.jpg (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/images/bridesmaids-background%402x.jpg (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/images/groomsmen-background.jpg (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/images/groomsmen-background%402x.jpg (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/images/gift-background-img.jpg (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/images/gift-background-img%402x.jpg (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/images/menu.jpg (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/images/menu%402x.jpg (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/images/gallery-img3.jpg (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/css/owl.video.play.html (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/images/neela-pattern.png (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/images/loading.gif (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:44	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/img/searchicon.png (from https://thiepcuoionline.huythanhjewelry.vn/css/style.css?v=0.0.6)
+21:18:47	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/toan-ngoc-22022025-1730/"/img/banner.jpg" (from https://thiepcuoionline.huythanhjewelry.vn/toan-ngoc-22022025-1730/preview)
+21:18:47	Error: 	"Not Found" (404) at link https://thiepcuoionline.huythanhjewelry.vn/toan-ngoc-22022025-1730/"/images/large.webp" (from https://thiepcuoionline.huythanhjewelry.vn/toan-ngoc-22022025-1730/preview)
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 seconds : 78 links scanned, 49 files written (3903789 bytes overall) [1567555 bytes received at 62702 bytes/sec], 3240482 bytes transferred using HTTP compression in 35 files, ratio 26%, 3.7 requests per connection
+(27 errors, 0 warnings, 0 messages)
